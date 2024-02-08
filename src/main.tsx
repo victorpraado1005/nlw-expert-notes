@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
         classNames: {
           toast: 'w-full p-4 flex items-center gap-2 rounded-md text-lime-400',
           error: 'bg-red-400 text-slate-950',
-          success: 'bg-slate-800',
+          success: 'bg-slate-800'
         }
       }}
     />
