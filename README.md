@@ -1,6 +1,6 @@
 # NLW Expert Notes
 
-<img src="imagem.png" alt="NLW Expert Notes">
+<img src="src/assets/Thumbnail-nlw-react.png" alt="NLW Expert Notes">
 
 <br />
 
