@@ -1,30 +1,62 @@
-# React + TypeScript + Vite
+# NLW Expert Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="imagem.png" alt="NLW Expert Notes">
 
-Currently, two official plugins are available:
+### Ajustes e melhorias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## Expanding the ESLint configuration
+- [ ] Criação de uma API
+- [ ] Criação do banco de dados
+- [ ] Categorização das notas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 💻 Pré-requisitos
 
-- Configure the top-level `parserOptions` property like this:
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+- Você tem instalado o `Node.js` em sua máquina.
+
+## 🚀 Instalando <nome_do_projeto>
+
+Para instalar o NLW Expert Notes, faça o clone desse repositório em sua máquina:
+
+```
+git clone https://github.com/victorpraado1005/nlw-expert-notes
+
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## ☕ Iniciando o projeto:
+
+Para iniciar a aplicação, siga essas etapas:
+
+- Rode o comando para baixar todas as dependências do projeto;
+
+```
+
+npm install
+
+```
+- Após finalizar essa etapa, basta rodar o comando de inicialização do projeto:
+
+```
+
+npm run dev
+
+```
+
+*Atualmente a aplicação está rodando e salvando suas informações de forma local, através do LocalStorage, por isso não se faz necessário rodar outros comandos
+para o start do projeto.
+
+## 📫 Contribuindo para o NLW Expert Notes
+
+Para contribuir com o projeto, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+###🚀🖥️
