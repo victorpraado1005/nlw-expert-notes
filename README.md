@@ -2,6 +2,9 @@
 
 <img src="imagem.png" alt="NLW Expert Notes">
 
+> O NLW Expert Notes trás a você uma possibilidade de salvar suas notas de forma rápida e prática. Essa aplicação é capaz de criar notas através de áudio e transcever em texto em tempo real para você.
+> Projeto criado durante o evento NLW Rocketseat.
+
 ## ⚙️ Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
