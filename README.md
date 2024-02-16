@@ -2,7 +2,7 @@
 
 <img src="imagem.png" alt="NLW Expert Notes">
 
-### Ajustes e melhorias
+## ⚙️ Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -22,7 +22,6 @@ Para instalar o NLW Expert Notes, faça o clone desse repositório em sua máqui
 
 ```
 git clone https://github.com/victorpraado1005/nlw-expert-notes
-
 ```
 
 ## ☕ Iniciando o projeto:
@@ -32,16 +31,12 @@ Para iniciar a aplicação, siga essas etapas:
 - Rode o comando para baixar todas as dependências do projeto;
 
 ```
-
 npm install
-
 ```
 - Após finalizar essa etapa, basta rodar o comando de inicialização do projeto:
 
 ```
-
 npm run dev
-
 ```
 
 *Atualmente a aplicação está rodando e salvando suas informações de forma local, através do LocalStorage, por isso não se faz necessário rodar outros comandos
@@ -59,4 +54,4 @@ Para contribuir com o projeto, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-###🚀🖥️
+🚀🖥️
